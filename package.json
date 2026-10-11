@@ -1,0 +1,25 @@
+{
+  "name": "demo5project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/jasmine": "^7.0.0",
+    "@types/node": "^26.6.5",
+    "jasmine-core": "^7.0.2",
+    "karma": "^6.4.4",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-jasmine": "^5.1.0",
+    "karma-webpack": "^5.0.1",
+    "ts-loader": "^9.6.2",
+    "typescript": "^7.0.2",
+    "webpack": "^5.111.1",
+    "webpack-dev-server": "^6.0.0"
+  }
+}
